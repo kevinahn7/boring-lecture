@@ -21,16 +21,15 @@ h1 {
   background-color: #f9edf4;
 }
 
-h2.intro {
+.intro {
   font-style: italic;
+}
+
+.intro h2 {
   font-weight: bold;
 }
 
-p.intro {
-  font-style: italic;
-}
-
-img.intro {
+.intro img {
   border: 3px dashed red;
   width: 50%;
   display: block;
