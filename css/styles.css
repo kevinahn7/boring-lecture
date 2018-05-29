@@ -40,3 +40,12 @@ hr {
   color: #d6d6d6;
   width: 25%;
 }
+
+.border {
+  border: 2px red solid;
+}
+
+.highlight {
+  color: #fcf835;
+  background-color: #431d7c;
+}
